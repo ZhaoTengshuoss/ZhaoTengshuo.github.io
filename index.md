@@ -1,22 +1,19 @@
+
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
+      <h1>赵腾的个人主页</h1>
       <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <p><b>石家庄铁道大学信息科学与技术学院</b></p>
+      <p><b>邮箱：15176125525@189.com</b></p>
+      <p><b>地址：石家庄市长安区北二环东路17号石家庄铁道大学，邮编：050000</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/zhengjianzhao.jpg" width="100%">       插入证件照代码
     </td>
   </tr>
 </table>
-## 赵腾的个人主页
 
-You can use the [editor on GitHub](https://github.com/ZhaoTengshuoss/ZhaoTengshuoss.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
