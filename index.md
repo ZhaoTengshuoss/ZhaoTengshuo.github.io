@@ -1,4 +1,4 @@
-
+# 个人信息
 <table border="0">
   <tr>
     <td width="75%">
@@ -9,21 +9,21 @@
       <p><b>地址：石家庄市长安区北二环东路17号石家庄铁道大学，邮编：050000</b></p>
     </td>
     <td width="25%">
-      <img src="./photo/gonglu.jpg" width="100%">       插入证件照代码
+      <img src="./photo/gonglu.jpg" width="100%">人生路，勇敢
     </td>
   </tr>
 </table>
 
 
-### Markdown
+### 技能清单
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
+## 项目经历
 
-# 个人信息
-## 最新消息
+
 ### 博客论文
 
 - Bulleted
@@ -39,10 +39,9 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZhaoTengshuoss/ZhaoTengshuoss.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### 联系方式
-
-
+  <li>陕西省咸阳市</li>
+  <li>15176125525@139.cn</li>
+  <li>1517615525</li>
