@@ -1,4 +1,4 @@
-# 个人信息
+## 个人信息
 <table border="0">
   <tr>
     <td width="75%">
@@ -15,22 +15,26 @@
 </table>
 
 
-### 技能清单
-###  项目经历
- [博客园](https://www.cnblogs.com/zhao-teng-ass/).
+## 技能清单
 
+## 博客文章
+
+
+ [博客园](https://www.cnblogs.com/zhao-teng-ass/)
+ [CSDN](https://blog.csdn.net/qq_38648558)
+ 
+ 
+## 项目经历
+
+## 联系方式
+  <li>陕西省咸阳市</li>
+  <li>15176125525@139.cn</li>
+  <li>1517615525</li>
 
 ```markdown
 Syntax highlighted code block
-## 项目经历
+## *****
  [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### 博客论文
-
-博客园： [博客](https://www.cnblogs.com/zhao-teng-ass/).
-CSDN：[博客](https://blog.csdn.net/qq_38648558).
- 
-
 1. Numbered
 2. List
 
@@ -43,7 +47,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 
 
-### 联系方式
-  <li>陕西省咸阳市</li>
-  <li>15176125525@139.cn</li>
-  <li>1517615525</li>
+
