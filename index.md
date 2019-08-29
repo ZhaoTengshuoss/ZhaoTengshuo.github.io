@@ -17,12 +17,12 @@
 
 ### 技能清单
 
-[博客]https://guides.github.com/features/mastering-markdown/
+
 
 ```markdown
 Syntax highlighted code block
 ## 项目经历
-
+ [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### 博客论文
 
