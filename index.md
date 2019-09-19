@@ -10,7 +10,7 @@
       <p><b>地址：石家庄市长安区北二环东路17号石家庄铁道大学</b></p>
     </td>
     <td width="25%">
-      <img src="./photo/person.jpg" width="100%">人生--勇敢
+      <img src="./photo/person.jpg" width="100%">&nbsp;&nbsp;人生--勇敢
     </td>
   </tr>
 </table>
@@ -41,6 +41,7 @@
 
  [博客园](https://www.cnblogs.com/zhao-teng-ass/)
  [CSDN](https://blog.csdn.net/qq_38648558)
+ [Github](https://github.com/ZhaoTengshuoss)
  
  
 ## 项目经历
