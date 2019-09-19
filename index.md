@@ -10,7 +10,7 @@
       <p><b>地址：石家庄市长安区北二环东路17号石家庄铁道大学</b></p>
     </td>
     <td width="25%">
-      <img src="./photo/gonglu.jpg" width="100%">人生--勇敢
+      <img src="./photo/person.jpg" width="100%">人生--勇敢
     </td>
   </tr>
 </table>
