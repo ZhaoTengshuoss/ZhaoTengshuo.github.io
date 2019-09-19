@@ -18,10 +18,10 @@
 
 ## 技能清单
 
-<li>英语:通过四级</li><br/>
+<li>英语:通过四级</li>
 <li>熟悉C、C++、PHP、Python等语言,熟练java,html,css语言；熟悉操作Linux开发环境；</li>
 <li>熟悉常见设计模式,掌握MySQL及基本SQL语句运用</li>
-<li>熟练使用Eclipse,git等操作</li><br/>
+<li>熟练使用Eclipse,git等操作</li>
 <li>了解Hadoop等分布式平台架构,NLP中新词发现、分词、主题分析，关键字提取等，自动摘要、聚类实现</li><br/>
 
 
